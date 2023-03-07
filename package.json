@@ -1,0 +1,14 @@
+{
+  "name": "gulp-web",
+  "version": "1.0.0",
+  "description": "project using gulp4 with bootstrap5",
+  "author": "dm",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
